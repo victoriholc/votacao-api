@@ -68,4 +68,5 @@ http://localhost:8080/api-votacao/actuator/health
 ## Autores
 
 * **Leonardo Chassot** - *Initial work* - [leonardo-ch](https://github.com/leonardo-ch)
+* **Victori Freitas** - *Spring version update*
 
